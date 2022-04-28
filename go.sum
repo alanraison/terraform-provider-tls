@@ -132,8 +132,8 @@ github.com/hashicorp/go-version v1.4.0 h1:aAQzgqIrRKRa7w75CKpbBxYsmUoPjzVm1W59ca
 github.com/hashicorp/go-version v1.4.0/go.mod h1:fltr4n8CU8Ke44wwGCBoEymUuxUHl09ZGVZPK5anwXA=
 github.com/hashicorp/hc-install v0.3.1 h1:VIjllE6KyAI1A244G8kTaHXy+TL5/XYzvrtFi8po/Yk=
 github.com/hashicorp/hc-install v0.3.1/go.mod h1:3LCdWcCDS1gaHC9mhHCGbkYfoY6vdsKohGjugbZdZak=
-github.com/hashicorp/hcl/v2 v2.11.1 h1:yTyWcXcm9XB0TEkyU/JCRU6rYy4K+mgLtzn2wlrJbcc=
-github.com/hashicorp/hcl/v2 v2.11.1/go.mod h1:FwWsfWEjyV/CMj8s/gqAuiviY72rJ1/oayI9WftqcKg=
+github.com/hashicorp/hcl/v2 v2.12.0 h1:PsYxySWpMD4KPaoJLnsHwtK5Qptvj/4Q6s0t4sUxZf4=
+github.com/hashicorp/hcl/v2 v2.12.0/go.mod h1:FwWsfWEjyV/CMj8s/gqAuiviY72rJ1/oayI9WftqcKg=
 github.com/hashicorp/logutils v1.0.0 h1:dLEQVugN8vlakKOUE3ihGLTZJRB4j+M2cdTm/ORI65Y=
 github.com/hashicorp/logutils v1.0.0/go.mod h1:QIAnNjmIWmVIIkWDTG1z5v++HQmx9WQRO+LraFDTW64=
 github.com/hashicorp/terraform-exec v0.16.0/go.mod h1:wB5JHmjxZ/YVNZuv9npAXKmz5pGyxy8PSi0GRR0+YjA=
@@ -202,8 +202,8 @@ github.com/mitchellh/go-testing-interface v1.14.1/go.mod h1:gfgS7OtZj6MA4U1UrDRp
 github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7/go.mod h1:ZXFpozHsX6DPmq2I0TCekCxypsnAUbP2oI0UX1GXzOo=
 github.com/mitchellh/go-wordwrap v1.0.0 h1:6GlHJ/LTGMrIJbwgdqdl2eEH8o+Exx/0m8ir9Gns0u4=
 github.com/mitchellh/go-wordwrap v1.0.0/go.mod h1:ZXFpozHsX6DPmq2I0TCekCxypsnAUbP2oI0UX1GXzOo=
-github.com/mitchellh/mapstructure v1.4.3 h1:OVowDSCllw/YjdLkam3/sm7wEtOy59d8ndGgCcyj8cs=
-github.com/mitchellh/mapstructure v1.4.3/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
+github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
+github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/mitchellh/reflectwalk v1.0.0/go.mod h1:mSTlrgnPZtwu0c4WaC2kGObEpuNDbx0jmZXqmk4esnw=
 github.com/mitchellh/reflectwalk v1.0.2 h1:G2LzWKi524PWgd3mLHV8Y5k7s6XUvT0Gef6zxSIeXaQ=
 github.com/mitchellh/reflectwalk v1.0.2/go.mod h1:mSTlrgnPZtwu0c4WaC2kGObEpuNDbx0jmZXqmk4esnw=
